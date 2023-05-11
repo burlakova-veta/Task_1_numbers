@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Бурлакова\bin\Debug\net6.0\Бурлакова.exe
+C:\Users\User\Desktop\Бурлакова\bin\Debug\net6.0\Бурлакова.deps.json
+C:\Users\User\Desktop\Бурлакова\bin\Debug\net6.0\Бурлакова.runtimeconfig.json
+C:\Users\User\Desktop\Бурлакова\bin\Debug\net6.0\Бурлакова.dll
+C:\Users\User\Desktop\Бурлакова\bin\Debug\net6.0\ref\Бурлакова.dll
+C:\Users\User\Desktop\Бурлакова\bin\Debug\net6.0\Бурлакова.pdb
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.AssemblyInfo.cs
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.dll
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\ref\Бурлакова.dll
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.pdb
+C:\Users\User\Desktop\Бурлакова\obj\Debug\net6.0\Бурлакова.genruntimeconfig.cache
